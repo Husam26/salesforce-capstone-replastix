@@ -77,10 +77,10 @@ When a restock request is approved, the system:
 
 | View              | Screenshot                                 |
 |-------------------|--------------------------------------------|
-| App Homepage      | ![](screenshots/Homepage.png)              |
-| Flow Diagram      | ![](screenshots/Flows.png)                 |
-| Object Manager    | ![](screenshots/ObjectManager.png)         |
-| Test Class Result | ![](screenshots/TestClassResult.png)       |
+| App Homepage      | ![](ScreenShots/Homepage.png)              |
+| Flow Diagram      | ![](ScreenShots/Flows.png)                 |
+| Object Manager    | ![](ScreenShots/Objectmanager.png)         |
+| Test Class Result | ![](ScreenShots/Test.png)       |
 
 
 ## Demo Video
