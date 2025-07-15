@@ -80,7 +80,7 @@ When a restock request is approved, the system:
 | App Homepage      | ![](ScreenShots/Homepage.png)              |
 | Flow Diagram      | ![](ScreenShots/Flows.png)                 |
 | Object Manager    | ![](ScreenShots/Objectmanager.png)         |
-| Test Class Result | ![](ScreenShots/Test.png)       |
+| Test Class Result | ![](ScreenShots/Testclass.png)       |
 
 
 ## Demo Video
