@@ -73,18 +73,15 @@ When a restock request is approved, the system:
   - Subject: “Restock Request Approved”
   - Message: “Stock is now updated — please proceed to refill.”
 
----
-
 ## 📸 Screenshots
 
-| View | Screenshot |
-|------|------------|
-| App Homepage | ![](ScreenShots/homepage.png) |
-| Flow Diagram | ![](screenshots/flows.png) |
-| Object Manager | ![](screenshots/objectmanager.png) |
-| Test Class Result | ![](screenshots/test.png) |
+| View              | Screenshot                                 |
+|-------------------|--------------------------------------------|
+| App Homepage      | ![](screenshots/Homepage.png)              |
+| Flow Diagram      | ![](screenshots/Flows.png)                 |
+| Object Manager    | ![](screenshots/ObjectManager.png)         |
+| Test Class Result | ![](screenshots/TestClassResult.png)       |
 
----
 
 ## Demo Video
 
