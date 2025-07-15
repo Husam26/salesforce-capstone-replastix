@@ -85,7 +85,7 @@ When a restock request is approved, the system:
 
 ## Demo Video
 
-▶️ [Click here to watch the project walkthrough]((https://drive.google.com/drive/folders/1xJ2CB60_OLxKVRr1h-_zfgUA_sYilu99))
+▶️ [Click here to watch the project walkthrough](https://drive.google.com/drive/folders/1xJ2CB60_OLxKVRr1h-_zfgUA_sYilu99)
 
 ---
 
